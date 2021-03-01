@@ -1,0 +1,6 @@
+姓名：周凌霄
+学号：518120910225
+已实现内容：ReceiverView、点击跳转
+
+注：
+由于命名时候有一点点小失误，activity_main2.xml是启动页面的布局，activity_main.xml是跳转后的页面的布局。
